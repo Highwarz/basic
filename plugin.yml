@@ -1,0 +1,9 @@
+name: Basic
+main: com.basic.plugin.Main
+version: 0.1
+author: Frogys
+
+commands
+  Highwarz:
+    description: Frogys custom OP plugin.
+    usage: /<command>
